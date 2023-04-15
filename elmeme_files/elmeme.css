@@ -1,0 +1,105 @@
+body {
+    font-family: "Ubuntu", Arial, serif;
+    color: #666666;
+}
+a {
+	transition: none;
+}
+h1,
+.h1,
+h2,
+.h2,
+h3,
+.h3,
+h4,
+.h4,
+h5,
+.h5,
+h6,
+.h6 {
+    font-family: "Bitter", Arial, serif;
+}
+.form-control {
+    font-family: "Bitter", Arial, serif;
+}
+.btn {
+    font-family: "Bitter", Arial, serif;
+}
+.header {
+    font-family: "Bitter", Arial, serif;
+    height: 61px;
+}
+.header, .header.header-small {
+	border-bottom: none;
+}
+.widget input,
+.widget select {
+    font-family: "Bitter", Arial, serif;
+}
+.widget_nav_menu ul li {
+    font-family: "Bitter", Arial, serif;
+}
+.team-content h5 {
+    font-size: 20px;
+}
+.portfolio-overlay {
+    background: rgba(180, 0, 0, .9);
+}
+.portfolio-title {
+	font-size: inherit;
+	text-transform: none;
+}
+.bg-light-70:before {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	z-index: 0;
+    background: rgba(255, 255, 255, .7);
+    content: "";
+    left: 0;
+    top: 0;
+}
+.etiqueta {
+	color: #555;
+    background: rgba(255, 255, 255, .7);
+    padding: 5px 0;
+}
+.footer .widget {
+    margin: 3rem 0;
+}
+.footer a {
+	color: #fc0;
+}
+.footer a:hover {
+	color: #fff;
+	opacity: 1;
+}
+.scroll-top {
+	border-radius: 4px;
+	background: rgba(0,0,0,0.5);
+	bottom: 10px;
+	left: 10px;
+}
+.testimonials-card-content {
+	color: #333;
+}
+.rotate {
+	opacity: 0;
+}
+.client {
+	opacity: 1;
+}
+.client:hover {
+	opacity: .8;
+}
+.hidden {
+	display: none;
+}
+.form-control {
+	font-size: inherit;
+	text-transform: none;
+}
+.header .inner-nav>ul>li>a.active {
+	color: #C00;
+	opacity: 1;
+}
